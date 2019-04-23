@@ -11,6 +11,7 @@ class MyApp extends StatelessWidget {
       title: 'Animated List',
       theme: ThemeData(
         primarySwatch: Colors.red,
+        canvasColor: Colors.black
       ),
       home: MyHomePage(title: 'Animated List'),
     );
